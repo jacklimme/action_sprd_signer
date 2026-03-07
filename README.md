@@ -1,7 +1,5 @@
 # Action SPRD image sign tool
 
-我是[中国人](README-ZH.md)
-
 Action Workflows to sign image for Unisoc/SPRD device.
 
 > [!Caution]  
